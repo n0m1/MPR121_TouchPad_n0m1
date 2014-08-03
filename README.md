@@ -3,7 +3,9 @@ MPR121_TouchPad_n0m1
 
 Schematic &amp; Layout for an Arduino touch pad shield using the MPR121 touch capacitance chip. 
 
-## Warning! This PCB design has been printed and assembled, but has been only partially tested! **Use at your own risk!!**
+## Warning! Use at your own risk!! 
+
+*This PCB design has been printed and assembled, but has been only partially tested!*
 
 ```
 Name    : MPR121_TouchPad_n0m1 Library                         
